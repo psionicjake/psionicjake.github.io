@@ -1,0 +1,88 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Wobaka | Online CRM and Email Automation Software</title>
+    <meta name="robots" content="noindex">
+  </head>
+  <body bgcolor="#15202b">
+    <marquee behavior="scroll" direction="right">
+      <font color="yellow">
+        Flat pricing! No per-user fees!
+      </font>
+    </marquee>
+    <center>
+      <h1>
+        <font color="#ffffff" size="8">Simple CRM and Email Automation Software for Small Teams</font>
+        <img src="img/english.gif">
+      </h1>
+      <p>
+        <font color="#ffffff" size="5">
+          Manage your customer relations and data with ease using our online CRM system. It has never been this easy to stay organized!
+        </font>
+      </p>
+      <a href="https://wobaka.com">
+        <img src="img/signup.gif" />
+      </a>
+      <br>
+      <h2>
+        <font size="6" color="#ffffff">A modern, online CRM system packed with functionality</font>
+      </h2>
+      <ul>
+        <li>
+          <img src="img/ie.gif" />
+          <font size="5" color="#ffffff">
+            <u>Available online with your web browser</u>
+          </font>
+          <br>
+          <font color="#ffffff">Nothing to install, ready to go!</font>
+        </li>
+        <br>
+        <li>
+          <img src="img/email.gif" />
+          <font size="5" color="#ffffff">
+            <u>Email integration</u>
+          </font>
+          <br>
+          <font color="#ffffff">Integrate with any email provider using smart bcc functionality.</font>
+        </li>
+        <br>
+        <li>
+          <img src="img/compass.gif" />
+          <font size="5" color="#ffffff">
+            <u>Innovative Kanban View</u>
+          </font>
+          <br>
+          <font color="#ffffff">Managing your deal pipeline has never been this easy!</font>
+        </li>
+      </ul>
+      <br>
+      <a href="https://wobaka.com/pricing">
+        <img src="img/buy.gif" />
+      </a>
+      <br>
+      <br>
+      <br>
+      <hr>
+      <a href="https://blog.wobaka.com">
+        <img src="img/blog.gif" />
+      </a>
+      <img src="img/counter.gif" />
+      <a href="https://twitter.com/drikerf">
+        <img src="img/guestbook.gif" />
+      </a>
+      <br>
+      <br>
+      <br>
+      <br>
+      <a href="https://wobaka.com">
+        <font color="#ffffff">
+          <i>Omg no! Take me back to the present!</i>
+        </font>
+      </a>
+    </center>
+    <!-- 100% privacy friendly analytics -->
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+  </body>
+</html>
